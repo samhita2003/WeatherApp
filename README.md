@@ -39,18 +39,25 @@
 <p>├── dist/                  # Compiled CSS</p>
 <br/>
 <h2>⚙️ Setup Instructions</h2>
-<ol>
-  <li>Clone the repository
-<code>git clone url </code></li>
-<li>Navigate to the project folder
-<code>cd weather-app</code></li>
-<li>Install dependencies
-<code>npm install</code></li>
-<li>Create a .env file and add your API key
-<code>VITE_WEATHER_API_KEY=your_api_key_here</code></li>
-  <li>Run the development server
-<code>npm run dev</code></li>
-</ol>
+
+1. Clone the repository  
+```bash
+git clone <your-repo-link>
+```
+ 2. Navigate to the project folder  
+```bash
+cd weather-app
+```
+
+3. Install dependencies  
+```bash
+npm install
+```
+
+4. Run the development server  
+```bash
+npm run dev
+```
 <br/>
 
 ## 🔑 API Endpoint
